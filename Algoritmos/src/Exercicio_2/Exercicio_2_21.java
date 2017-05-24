@@ -17,8 +17,10 @@ public class Exercicio_2_21 {
 		
 		long n3 = 1;
 		long n2 = 0;
-		long n1 = Integer.parseInt(JOptionPane.showInputDialog("Digite a quantidade de linhas: "));
-
+		
+		for(nn1 = 0; )
+		
+		
 		}
 
 	}

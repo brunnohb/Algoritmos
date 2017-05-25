@@ -8,7 +8,7 @@ public class Exercicio_2_19 {
 		int n1 = 1;
 		int n3 = 1;
 
-		String array[] = new String[100];
+//		String array[] = new String[100];
 		for (int i = 0; i < 100; i++) {
 			n3 = n1 * n1;
 			System.out.println(n1 + " Elevado ao quadrado: " + n3);

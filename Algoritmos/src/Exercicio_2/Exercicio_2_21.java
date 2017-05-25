@@ -14,13 +14,16 @@ Necessitará de 2 for.
 
 public class Exercicio_2_21 {
 	public static void main(String[] args) {
-		
-		long n3 = 1;
-		long n2 = 0;
-		
-		for(nn1 = 0; )
-		
-		
+
+		int qtdlinhas = Integer.parseInt(JOptionPane.showInputDialog("Digite a quantidade de linhas: "));
+
+		for (int linhas = 0; linhas < qtdlinhas; linhas++) {
+			for (int colunas = 0; colunas <= linhas; colunas++) {
+				System.out.print("1 ");
+			}
+			System.out.println("");
 		}
 
 	}
+
+}
